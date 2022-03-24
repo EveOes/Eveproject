@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 20,
+    "height" : 15
+  }, {
+    "width" : 40,
+    "height" : 29
+  }, {
+    "width" : 80,
+    "height" : 57
+  }, {
+    "width" : 160,
+    "height" : 114
+  }, {
+    "width" : 320,
+    "height" : 227
+  }, {
+    "width" : 640,
+    "height" : 454
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 640,
+  "@id" : "https://EveOes.github.io/Eveproject/images/Radiola",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 454
+}

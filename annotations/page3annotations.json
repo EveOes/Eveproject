@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"http://www.rafcommands.com/database/serials/details.php?uniq=J9909\" target=\"_blank\" rel=\"noopener\">RAF Aircraft Serial Number&nbsp;confirms this as a Siskin IIIA biplane used by the RCAF fairobatic flying team",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"http://www.rafcommands.com/database/serials/details.php?uniq=J9909\" target=\"_blank\" rel=\"noopener\">RAF Aircraft Serial Number</a>&nbsp;confirms this as a Siskin IIIA biplane used by the RCAF fairobatic flying team</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102290604",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-24T11:29:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648121376922",
+    "dcterms:modified" : "2022-03-24T11:29:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://EveOes.github.io/Eveproject/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=984,623,18,27"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M992.98325,649.94748c0,-5.92437 2.96218,-11.84874 8.88655,-17.7731c0,-4.90791 -3.97864,-8.88655 -8.88655,-8.88655c-4.90791,0 -8.88655,3.97864 -8.88655,8.88655c5.92437,5.92437 8.88655,11.84874 8.88655,17.7731z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_5890db22-e235-4058-ad12-5b2c0e7a50df\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://58c36578-9374-4dee-91cf-d7e8b65a4830"
+    } ]
+  } ],
+  "@id" : "https://EveOes.github.io/Eveproject/annotations/page3annotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

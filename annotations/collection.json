@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://EveOes.github.io/Eveproject/annotations/page1annotations.json", "https://EveOes.github.io/Eveproject/annotations/page2annotations.json" ],
+  "otherContent" : [ "https://EveOes.github.io/Eveproject/annotations/page1annotations.json", "https://EveOes.github.io/Eveproject/annotations/page2annotations.json", "https://EveOes.github.io/Eveproject/annotations/page3annotations.json" ],
   "@id" : "https://EveOes.github.io/Eveproject/annotations/collection.json",
   "label" : "All annotations loaded in EveOes/Eveproject project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"

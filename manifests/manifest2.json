@@ -1,0 +1,139 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://EveOes.github.io/Eveproject/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "The Clouds Remember",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Drawings of areoplanes.]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "attribution" : "[The British Library]",
+  "sequences" : [ {
+    "@id" : "http://9fe92479-bfeb-4086-b087-80bf97a9d338",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://f4b69252-650b-4229-a2ad-b7e62271ee10",
+      "@type" : "sc:Canvas",
+      "label" : "Cover",
+      "height" : 3195,
+      "width" : 2281,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d94707cc-1be5-471c-8310-8c53d1bfd83b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100004171125.0x000001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100004171125.0x000001",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 3195,
+          "width" : 2281
+        },
+        "on" : "http://f4b69252-650b-4229-a2ad-b7e62271ee10"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://178c6880-ac4f-4626-9a0e-43f30a54048d",
+      "@type" : "sc:Canvas",
+      "label" : "Page4",
+      "height" : 3159,
+      "width" : 2263,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b1d88134-41e9-4092-bf66-f48d6a43d9c2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100004171125.0x000004/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100004171125.0x000004",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 3159,
+          "width" : 2263
+        },
+        "on" : "http://178c6880-ac4f-4626-9a0e-43f30a54048d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://022f4c31-27f3-4578-97b5-1ff9ebf8c657",
+      "@type" : "sc:Canvas",
+      "label" : "Page3a",
+      "height" : 3159,
+      "width" : 2163,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9d533dc8-5ecf-4c71-84d3-59736a81be4c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100004171125.0x00003a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100004171125.0x00003a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 3159,
+          "width" : 2163
+        },
+        "on" : "http://022f4c31-27f3-4578-97b5-1ff9ebf8c657"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://58c36578-9374-4dee-91cf-d7e8b65a4830",
+      "@type" : "sc:Canvas",
+      "label" : "Page9",
+      "height" : 3151,
+      "width" : 2127,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5d65b788-e8f7-4f06-95d4-19be5b127aa9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100004171125.0x0000d9/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100004171125.0x0000d9",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 3151,
+          "width" : 2127
+        },
+        "on" : "http://58c36578-9374-4dee-91cf-d7e8b65a4830"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

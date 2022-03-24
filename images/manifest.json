@@ -1,0 +1,66 @@
+{
+  "id" : "https://EveOes.github.io/Eveproject/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in EveOes/Eveproject project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 640,
+    "id" : "https://EveOes.github.io/Eveproject/images/Radiola/canvas/",
+    "label" : {
+      "none" : [ "Radiola" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://EveOes.github.io/Eveproject/images/Radiola/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://EveOes.github.io/Eveproject/images/Radiola/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 20,
+              "height" : 15
+            }, {
+              "width" : 40,
+              "height" : 29
+            }, {
+              "width" : 80,
+              "height" : 57
+            }, {
+              "width" : 160,
+              "height" : 114
+            }, {
+              "width" : 320,
+              "height" : 227
+            }, {
+              "width" : 640,
+              "height" : 454
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 640,
+            "@id" : "https://EveOes.github.io/Eveproject/images/Radiola",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 454
+          } ],
+          "format" : "image/jpeg",
+          "width" : 640,
+          "id" : "https://EveOes.github.io/Eveproject/images/Radiola/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 454
+        },
+        "target" : "https://EveOes.github.io/Eveproject/images/Radiola/canvas/"
+      } ]
+    } ],
+    "height" : 454
+  } ]
+}

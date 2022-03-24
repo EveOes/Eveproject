@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://en.wikipedia.org/wiki/Leonard_Bridgman\" target=\"_blank\" rel=\"noopener\">Leonard Bridgman\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://en.wikipedia.org/wiki/Leonard_Bridgman\" target=\"_blank\" rel=\"noopener\">Leonard Bridgman</a></p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102290604",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-24T11:15:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648120501116",
+    "dcterms:modified" : "2022-03-24T11:42:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://EveOes.github.io/Eveproject/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1909,579,84,189"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1909.45455,767.44305h41.90909v0h41.90909v-94.45455v-94.45455h-41.90909h-41.90909v94.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_aae8f84e-9bce-423c-8f06-5fab94e3441c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"21.32772\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://178c6880-ac4f-4626-9a0e-43f30a54048d"
+    } ]
+  } ],
+  "@id" : "https://EveOes.github.io/Eveproject/annotations/page1annotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

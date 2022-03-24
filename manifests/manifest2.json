@@ -3,6 +3,11 @@
   "@id" : "https://EveOes.github.io/Eveproject/manifests/manifest2.json",
   "@type" : "sc:Manifest",
   "label" : "The Clouds Remember",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/102290604/72636db16be53b2a5bde889090d336e2/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "[Drawings of areoplanes.]",
@@ -24,6 +29,11 @@
       "height" : 3195,
       "width" : 2281,
       "images" : [ {
+        "otherContent" : [ {
+          "@id" : "https://eveoes.github.io/Eveproject/annotations/titlepageannotations.json",
+          "@type" : "sc:AnnotationList",
+          "label" : "My fantastic annotations"
+        } ],
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://d94707cc-1be5-471c-8310-8c53d1bfd83b",
         "@type" : "oa:Annotation",
@@ -53,6 +63,11 @@
       "height" : 3159,
       "width" : 2263,
       "images" : [ {
+        "otherContent" : [ {
+          "@id" : "https://eveoes.github.io/Eveproject/annotations/page1annotations.json",
+          "@type" : "sc:AnnotationList",
+          "label" : "My fantastic annotations"
+        } ],
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://b1d88134-41e9-4092-bf66-f48d6a43d9c2",
         "@type" : "oa:Annotation",
@@ -82,6 +97,11 @@
       "height" : 3159,
       "width" : 2163,
       "images" : [ {
+        "otherContent" : [ {
+          "@id" : "https://eveoes.github.io/Eveproject/annotations/page2annotations.json",
+          "@type" : "sc:AnnotationList",
+          "label" : "My fantastic annotations"
+        } ],
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://9d533dc8-5ecf-4c71-84d3-59736a81be4c",
         "@type" : "oa:Annotation",
@@ -111,6 +131,11 @@
       "height" : 3151,
       "width" : 2127,
       "images" : [ {
+        "otherContent" : [ {
+          "@id" : "https://eveoes.github.io/Eveproject/annotations/page3annotations.json",
+          "@type" : "sc:AnnotationList",
+          "label" : "My fantastic annotations"
+        } ],
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://5d65b788-e8f7-4f06-95d4-19be5b127aa9",
         "@type" : "oa:Annotation",

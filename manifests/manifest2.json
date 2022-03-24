@@ -29,11 +29,6 @@
       "height" : 3195,
       "width" : 2281,
       "images" : [ {
-        "otherContent" : [ {
-          "@id" : "https://eveoes.github.io/Eveproject/annotations/titlepageannotations.json",
-          "@type" : "sc:AnnotationList",
-          "label" : "My fantastic annotations"
-        } ],
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://d94707cc-1be5-471c-8310-8c53d1bfd83b",
         "@type" : "oa:Annotation",
@@ -55,6 +50,11 @@
         },
         "on" : "http://f4b69252-650b-4229-a2ad-b7e62271ee10"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://eveoes.github.io/Eveproject/annotations/titlepageannotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://178c6880-ac4f-4626-9a0e-43f30a54048d",
@@ -63,11 +63,6 @@
       "height" : 3159,
       "width" : 2263,
       "images" : [ {
-        "otherContent" : [ {
-          "@id" : "https://eveoes.github.io/Eveproject/annotations/page1annotations.json",
-          "@type" : "sc:AnnotationList",
-          "label" : "My fantastic annotations"
-        } ],
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://b1d88134-41e9-4092-bf66-f48d6a43d9c2",
         "@type" : "oa:Annotation",
@@ -89,6 +84,11 @@
         },
         "on" : "http://178c6880-ac4f-4626-9a0e-43f30a54048d"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://eveoes.github.io/Eveproject/annotations/page1annotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://022f4c31-27f3-4578-97b5-1ff9ebf8c657",
@@ -97,11 +97,6 @@
       "height" : 3159,
       "width" : 2163,
       "images" : [ {
-        "otherContent" : [ {
-          "@id" : "https://eveoes.github.io/Eveproject/annotations/page2annotations.json",
-          "@type" : "sc:AnnotationList",
-          "label" : "My fantastic annotations"
-        } ],
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://9d533dc8-5ecf-4c71-84d3-59736a81be4c",
         "@type" : "oa:Annotation",
@@ -123,6 +118,11 @@
         },
         "on" : "http://022f4c31-27f3-4578-97b5-1ff9ebf8c657"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://eveoes.github.io/Eveproject/annotations/page2annotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://58c36578-9374-4dee-91cf-d7e8b65a4830",
@@ -131,11 +131,6 @@
       "height" : 3151,
       "width" : 2127,
       "images" : [ {
-        "otherContent" : [ {
-          "@id" : "https://eveoes.github.io/Eveproject/annotations/page3annotations.json",
-          "@type" : "sc:AnnotationList",
-          "label" : "My fantastic annotations"
-        } ],
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://5d65b788-e8f7-4f06-95d4-19be5b127aa9",
         "@type" : "oa:Annotation",
@@ -156,6 +151,11 @@
           "width" : 2127
         },
         "on" : "http://58c36578-9374-4dee-91cf-d7e8b65a4830"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://eveoes.github.io/Eveproject/annotations/page3annotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     } ]

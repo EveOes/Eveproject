@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://en.wikipedia.org/wiki/Royal_Aircraft_Factory_R.E.8\" target=\"_blank\" rel=\"noopener\">Royal Aircraft Factory R.E.8",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://en.wikipedia.org/wiki/Royal_Aircraft_Factory_R.E.8\" target=\"_blank\" rel=\"noopener\">Royal Aircraft Factory R.E.8</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102290604",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-24T11:20:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648120805196",
+    "dcterms:modified" : "2022-03-24T11:20:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://EveOes.github.io/Eveproject/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1929,1393,109,339"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1928.51441,1732.05096h54.31931v0h54.31931v-169.62179v-169.62179h-54.31931h-54.31931v169.62179z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_da20eea1-4525-4ec8-9b88-f93c15cd3cb8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://022f4c31-27f3-4578-97b5-1ff9ebf8c657"
+    } ]
+  } ],
+  "@id" : "https://EveOes.github.io/Eveproject/annotations/page2annotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
